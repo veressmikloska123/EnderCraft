@@ -1,5 +1,5 @@
 # EnderCraft
-EnderCraft Minecraft SzerverCsoport Projectje
+EnderCraft MinecraftPE Szerver Projectje
 
 Hibajelentések:
  - Elírásihibák jelentéséért járó jutalom: 50 Kredit
