@@ -2,7 +2,7 @@
 EnderCraft MinecraftPE Szerver Projectje
 
 Hibajelentések:
- - Elírásihibák jelentéséért járó jutalom: 50 Kredit
+ - Elírási hibák jelentéséért járó jutalom: 50 Kredit
  - Rendszerhibák(Ha valami nem működik) jelentéséért járó jutalom: 200 kredit
  - Kihasználható hibák(Pl. addolási lehetőség) jelentéséért járó jutalom: 300 kredit
  
