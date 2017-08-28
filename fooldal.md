@@ -1,6 +1,8 @@
 # EnderCraft
 EnderCraft MinecraftPE Szerver Projectje
 
+Folyamatosan azon dolgozunk, hogy minél jobb, élvezhetőbb legyen a Szerver. Ehhez a Ti segíségeteket kérjük, a hibák javítása, és az újdonságok kreálása érdekében. Ezekért az alábbi jelentési kategóriák szerint adunk jutalmat.
+Q
 Hibajelentések:
  - Elírási hibák jelentéséért járó jutalom: 50 Kredit
  - Rendszerhibák(Ha valami nem működik) jelentéséért járó jutalom: 200 kredit
@@ -10,10 +12,10 @@ Hibajelentések:
  - Továbbfejlesztési ötlet: 100 kredit
  - Újdonság ötlet: 200 kredit
 
-Jelentés az "Issues" menüpontban a "New Issue" gombra nyomva.
+Jelentés a https://github.com/S3nS3IW00/EnderCraft/issues oldalon a "New Issue" gombra nyomva.
 
-》 Honlap: endercraft.hu
+》 Honlap: http://endercraft.hu
 
 》 E-mail: ecmcpehun@gmail.com
 
-》 Webáruház: endercraftmcpe.minemarket.hu
+》 Webáruház: https://endercraftmcpe.minemarket.hu
