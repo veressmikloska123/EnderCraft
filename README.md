@@ -2,7 +2,8 @@
 EnderCraft MinecraftPE Szerver Projectje
 
 Folyamatosan azon dolgozunk, hogy minél jobb, élvezhetőbb legyen a Szerver. Ehhez a Ti segíségeteket kérjük, a hibák javítása, és az újdonságok kreálása érdekében. Ezekért az alábbi jelentési kategóriák szerint adunk jutalmat.
-Q
+
+
 Hibajelentések:
  - Elírási hibák jelentéséért járó jutalom: 50 Kredit
  - Rendszerhibák(Ha valami nem működik) jelentéséért járó jutalom: 200 kredit
