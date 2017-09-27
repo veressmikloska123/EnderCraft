@@ -13,7 +13,7 @@ Hibajelentések:
  - Továbbfejlesztési ötlet: 100 kredit
  - Újdonság ötlet: 200 kredit
 
-Jelentés a https://github.com/S3nS3IW00/EnderCraft/issues oldalon a "New Issue" gombra nyomva.
+Jelentés a https://github.com/S3nS3IW00/EnderCraft/issues oldalon a "New Issue"(Mobilon "+") gombra nyomva.
 
 》 Honlap: http://endercraft.hu
 
