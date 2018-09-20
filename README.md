@@ -1,5 +1,5 @@
 # EnderCraft
-EnderCraft MinecraftPE Szerver Projectje
+EnderCraft Minecraft Szerver Projectje
 
 Folyamatosan azon dolgozunk, hogy minél jobb, élvezhetőbb legyen a Szerver. Ehhez a Ti segíségeteket kérjük, a hibák javítása, és az újdonságok kreálása érdekében. Ezekért az alábbi jelentési kategóriák szerint adunk jutalmat.
 
@@ -17,6 +17,6 @@ Jelentés a https://github.com/S3nS3IW00/EnderCraft/issues oldalon a "New Issue
 
 》 Honlap: http://endercraft.hu
 
-》 E-mail: ecmcpehun@gmail.com
+》 E-mail: info@endercraft.hu
 
-》 Webáruház: https://endercraftmcpe.minemarket.hu
+》 Webáruház: -
