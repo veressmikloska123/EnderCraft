@@ -1,7 +1,7 @@
 # EnderCraft
-EnderCraft Minecraft Szerver Projectje
+EnderCraft Minecraft Szerver Hibajelentési Projectje
 
-Folyamatosan azon dolgozunk, hogy minél jobb, élvezhetőbb legyen a Szerver. Ehhez a Ti segíségeteket kérjük, a hibák javítása, és az újdonságok kreálása érdekében. Ezekért az alábbi jelentési kategóriák szerint adunk jutalmat.
+Folyamatosan azon dolgozunk, hogy minél jobb és élvezhetőbb legyen a Szerver. Ehhez a Ti segítségeteket kérjük, a hibák javítása, és az újdonságok kreálása érdekében. Ezekért az alábbi jelentési kategóriák szerint adunk jutalmat.
 
 
 Hibajelentések:
